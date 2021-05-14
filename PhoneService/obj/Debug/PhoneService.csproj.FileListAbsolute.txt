@@ -1,0 +1,72 @@
+L:\PhoneService\PhoneService\obj\Debug\PhoneService.csprojAssemblyReference.cache
+L:\PhoneService\PhoneService\obj\Debug\MainWindow.g.cs
+L:\PhoneService\PhoneService\obj\Debug\Pages\Register.g.cs
+L:\PhoneService\PhoneService\obj\Debug\App.g.cs
+L:\PhoneService\PhoneService\obj\Debug\PhoneService_MarkupCompile.cache
+L:\PhoneService\PhoneService\obj\Debug\PhoneService_MarkupCompile.lref
+L:\PhoneService\PhoneService\bin\Debug\PhoneService.exe.config
+L:\PhoneService\PhoneService\bin\Debug\PhoneService.exe
+L:\PhoneService\PhoneService\bin\Debug\PhoneService.pdb
+L:\PhoneService\PhoneService\bin\Debug\MaterialDesignColors.dll
+L:\PhoneService\PhoneService\bin\Debug\MaterialDesignThemes.Wpf.dll
+L:\PhoneService\PhoneService\bin\Debug\MaterialDesignColors.pdb
+L:\PhoneService\PhoneService\bin\Debug\MaterialDesignThemes.Wpf.pdb
+L:\PhoneService\PhoneService\bin\Debug\MaterialDesignThemes.Wpf.xml
+L:\PhoneService\PhoneService\obj\Debug\App.baml
+L:\PhoneService\PhoneService\obj\Debug\MainWindow.baml
+L:\PhoneService\PhoneService\obj\Debug\Pages\Register.baml
+L:\PhoneService\PhoneService\obj\Debug\PhoneService.g.resources
+L:\PhoneService\PhoneService\obj\Debug\PhoneService.Properties.Resources.resources
+L:\PhoneService\PhoneService\obj\Debug\PhoneService.csproj.GenerateResource.cache
+L:\PhoneService\PhoneService\obj\Debug\PhoneService.csproj.CoreCompileInputs.cache
+L:\PhoneService\PhoneService\obj\Debug\PhoneService.csproj.CopyComplete
+L:\PhoneService\PhoneService\obj\Debug\PhoneService.exe
+L:\PhoneService\PhoneService\obj\Debug\PhoneService.pdb
+L:\PhoneService\PhoneService\obj\Debug\Pages\Login.g.cs
+L:\PhoneService\PhoneService\obj\Debug\Pages\Login.baml
+L:\PhoneService\PhoneService\obj\Debug\Pages\History.g.cs
+L:\PhoneService\PhoneService\obj\Debug\Pages\Internet.g.cs
+L:\PhoneService\PhoneService\obj\Debug\Pages\Main.g.cs
+L:\PhoneService\PhoneService\obj\Debug\Pages\Phone.g.cs
+L:\PhoneService\PhoneService\obj\Debug\Pages\Rates.g.cs
+L:\PhoneService\PhoneService\obj\Debug\Pages\History.baml
+L:\PhoneService\PhoneService\obj\Debug\Pages\Internet.baml
+L:\PhoneService\PhoneService\obj\Debug\Pages\Main.baml
+L:\PhoneService\PhoneService\obj\Debug\Pages\Phone.baml
+L:\PhoneService\PhoneService\obj\Debug\Pages\Rates.baml
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\bin\Debug\PhoneService.exe.config
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\bin\Debug\PhoneService.exe
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\bin\Debug\PhoneService.pdb
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\bin\Debug\MaterialDesignColors.dll
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\PhoneService.csprojAssemblyReference.cache
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\MainWindow.g.cs
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\Pages\History.g.cs
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\Pages\Internet.g.cs
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\Pages\Login.g.cs
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\Pages\Main.g.cs
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\Pages\Phone.g.cs
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\Pages\Rates.g.cs
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\Pages\Register.g.cs
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\App.g.cs
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\PhoneService_MarkupCompile.cache
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\PhoneService_MarkupCompile.lref
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\App.baml
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\MainWindow.baml
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\Pages\History.baml
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\Pages\Internet.baml
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\Pages\Login.baml
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\Pages\Main.baml
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\Pages\Phone.baml
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\Pages\Rates.baml
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\Pages\Register.baml
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\PhoneService.g.resources
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\PhoneService.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\PhoneService.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\PhoneService.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\PhoneService.csproj.CopyComplete
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\PhoneService.exe
+C:\Users\Acer\OneDrive\Рабочий стол\PhoneService\PhoneService\obj\Debug\PhoneService.pdb

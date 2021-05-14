@@ -1,0 +1,31 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PhoneService.Pages"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="PhoneService.Pages.Phone"
+      mc:Ignorable="d" 
+      d:DesignHeight="790" d:DesignWidth="1290"
+      Title="Phone">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Background.png"/>
+        </Grid.Background>
+
+        <Label Content="Номер телефону" HorizontalAlignment="Left" Margin="544,165,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <TextBox materialDesign:HintAssist.Hint="10 цифр" x:Name="textBox1" HorizontalAlignment="Left" Height="40" Margin="484,216,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="316" FontSize="20"/>
+        <Label Content="Час дзвінку (хв)" HorizontalAlignment="Left" Margin="556,433,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <TextBox materialDesign:HintAssist.Hint="Число" x:Name="textBox2" HorizontalAlignment="Left" Height="40" Margin="484,482,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="316" FontSize="20"/>
+        <ComboBox x:Name="combo" HorizontalAlignment="Left" Margin="484,340,0,0" VerticalAlignment="Top" Width="316" Height="45">
+            <ComboBoxItem Content="В межах міста"/>
+            <ComboBoxItem Content="Міський"/>
+            <ComboBoxItem Content="Міжнародний"/>
+        </ComboBox>
+        <Label Content="Тип зв'язку" HorizontalAlignment="Left" Margin="572,295,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Button Content="Зателефонувати" HorizontalAlignment="Left" Margin="484,578,0,0" VerticalAlignment="Top" Width="316" Height="78" FontSize="24" Click="Button_Click"/>
+        <Label Content="Назад" HorizontalAlignment="Left" Margin="600,669,0,0" VerticalAlignment="Top" FontSize="28" Cursor="Hand" PreviewMouseLeftButtonDown="Label_PreviewMouseLeftButtonDown"/>
+
+    </Grid>
+</Page>
